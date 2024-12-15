@@ -97,3 +97,16 @@ button:focus {
 .p-2rem{
     padding: 2rem !important;
 }
+
+.fs-3{
+    font-size: 2.5rem !important;
+}
+
+
+.card-sb{
+    padding: 3rem;
+}
+
+.text-green{
+    color: #102a14 !important;
+}
