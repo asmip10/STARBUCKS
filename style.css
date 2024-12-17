@@ -30,6 +30,13 @@
      0 0px 2px rgb(0, 0, 0, .07);
 }
 
+.boxshadow-bottom {
+    box-shadow:
+     0 1px 3px rgb(0, 0, 0, .1),
+     0 2px 2px rgb(0, 0, 0, .06),
+     0 0px 2px rgb(0, 0, 0, .07);
+}
+
 .ff-SoDoSans-Semibold{
   font-family: "SoDoSans-Semibold" !important;
 }
@@ -109,4 +116,22 @@ button:focus {
 
 .text-green{
     color: #102a14 !important;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.link-social {
+    padding: 5px;
+    background-color: #066241;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.link-social ion-icon {
+    color: white;
+    font-size: 1.3rem;
+    margin-top: 5px;
 }
